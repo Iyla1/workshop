@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-28T20:24:30.600Z",
+  "created_by": "Iyla1",
+  "title": "Theoretical Theatre",
+  "slug": "theoretical-theatre",
+  "updated_at": "2025-02-28T20:24:30.600Z",
+  "updated_by": "Iyla1",
+  "parent": "2b88865b-74ab-4def-930d-0f7db870b99f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "526d5dc8-1a88-4800-b64f-dd8adba9c90e"
+  }
+}
